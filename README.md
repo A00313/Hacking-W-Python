@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hacking Tools Built using Python</title>
 </head>
 <body>
 <h1>Hacking Tools Built using Python</h1>
