@@ -1,27 +1,65 @@
-# Hacking Tools Built using Python
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hacking Tools Built using Python</title>
+</head>
+<body>
+<h1>Hacking Tools Built using Python</h1>
+<h3>(For Educational Purposes Only)</h3>
+<h4>These are real tools that work on real networks if used correctly.</h4>
 
-(This is for educational purposes only)
-These are real tools that work on real networks if used correctly.
-Welcome to the repository showcasing various hacking tools developed in Python. Each tool serves as an educational resource to understand cybersecurity concepts and network vulnerabilities. Here's a brief description of each tool:
+<hr>
 
-ARP_spoof: Allows for ARP spoofing, a technique used to intercept data between network devices.
+<p>Welcome to the repository showcasing various hacking tools developed in Python. Each tool serves as an educational resource to understand cybersecurity concepts and network vulnerabilities.</p>
 
-Update ARP Spoof: A refined version of ARP spoofing tool with updates for enhanced functionality and reliability.
+<h3>Tools:</h3>
 
-Code_Injector: Enables injecting custom code into network packets, demonstrating packet manipulation techniques.
+<ol>
+<li>
+  <h4>ARP_spoof</h4>
+  <p>Allows for ARP spoofing, a technique used to intercept data between network devices.</p>
+</li>
+<li>
+  <h4>Update ARP Spoof</h4>
+  <p>A refined version of ARP spoofing tool with updates for enhanced functionality and reliability.</p>
+</li>
+<li>
+  <h4>Code_Injector</h4>
+  <p>Enables injecting custom code into network packets, demonstrating packet manipulation techniques.</p>
+</li>
+<li>
+  <h4>IP_Scanner</h4>
+  <p>Provides functionality for scanning IP addresses on a network, aiding in network reconnaissance.</p>
+</li>
+<li>
+  <h4>Mac_changer</h4>
+  <p>Allows for changing the MAC address of a network interface, useful for anonymizing network traffic.</p>
+</li>
+<li>
+  <h4>Packet_sniffer</h4>
+  <p>Facilitates sniffing and analyzing network packets, aiding in network traffic analysis.</p>
+</li>
+<li>
+  <h4>Replace_Downloads</h4>
+  <p>Demonstrates replacing downloaded files on a network, highlighting potential security risks.</p>
+</li>
+<li>
+  <h4>V2_Code_Injector</h4>
+  <p>Enhanced version of Code_Injector with additional features and improvements.</p>
+</li>
+<li>
+  <h4>dns_spoof.py</h4>
+  <p>Enables DNS spoofing, a technique to redirect DNS queries to malicious servers for interception.</p>
+</li>
+<li>
+  <h4>net_cut</h4>
+  <p>Utility for cutting off internet connectivity for devices on a network, illustrating denial-of-service (DoS) attacks.</p>
+</li>
+</ol>
 
-IP_Scanner: Provides functionality for scanning IP addresses on a network, aiding in network reconnaissance.
+<p>Feel free to explore each tool and use them responsibly for educational purposes only. Remember to adhere to ethical guidelines and legal regulations when experimenting with cybersecurity concepts.</p>
 
-Mac_changer: Allows for changing the MAC address of a network interface, useful for anonymizing network traffic.
-
-Packet_sniffer: Facilitates sniffing and analyzing network packets, aiding in network traffic analysis.
-
-Replace_Downloads: Demonstrates replacing downloaded files on a network, highlighting potential security risks.
-
-V2_Code_Injector: Enhanced version of Code_Injector with additional features and improvements.
-
-dns_spoof.py: Enables DNS spoofing, a technique to redirect DNS queries to malicious servers for interception.
-
-net_cut: Utility for cutting off internet connectivity for devices on a network, illustrating denial-of-service (DoS) attacks.
-
-Feel free to explore each tool and use them responsibly for educational purposes only. Remember to adhere to ethical guidelines and legal regulations when experimenting with cybersecurity concepts.
+</body>
+</html>
